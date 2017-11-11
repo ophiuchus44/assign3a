@@ -1,0 +1,7 @@
+inigo 9 8 1
+roberts 8 5 3
+vizzini 3 0 3
+buttercup 6 3 3
+humperdinck 5 2 3
+paul 26 2 24
+pablo 0 0 0
